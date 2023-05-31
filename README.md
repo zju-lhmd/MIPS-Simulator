@@ -1,12 +1,13 @@
 # MIPS模拟器使用说明
 
-> `/程序及源代码/MIPS/MIPS.exe`文件夹中是程序release版本
+> `/release/MIPS.exe`文件夹中是程序release版本
 >
-> `/程序及源代码/code`文件夹中是程序源码
->
-> `/汇报PPT.txt`中是对本组汇报PPT的说明及PPT链接
+> `/src`文件夹中是程序源码
 >
 > `/技术报告.pdf`文件是本组的MIPS模拟器技术报告
+>
+> 项目PPT使用在线网页形式，请访问以下链接查看：
+> https://lhmd.top/MyReveal/MIPS
 
 ## 汇编功能
 
